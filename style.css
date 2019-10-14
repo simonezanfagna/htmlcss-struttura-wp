@@ -150,13 +150,19 @@ footer{
   background-color: white;
   position: relative;
 }
+
 .web{
   left: 50%;
   top: 50%;
   transform: translate(-50% , -50%);
   position: absolute;
 }
+
 .fb, .insta, .twitter {
   display: inline-block;
   font-size: 50px;
+}
+
+i{
+  display: inline-block;
 }
